@@ -69,11 +69,10 @@ footer {
 
   }
 
-/*.homepage {
+.homepage {
     background-image: url("IMG_3550.png");
-
     opacity: 0.4;
-    filter: alpha(opacity=10);
-    font-color: white;
+      margin: 0 auto;
+    height: 300px}
 
   ;
