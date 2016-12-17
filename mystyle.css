@@ -134,7 +134,7 @@ footer {
         }
 
         .cta-contents{
-            text-align: left;
+            text-align: center;
         }
 }
 
@@ -183,18 +183,6 @@ footer {
 .bs-calltoaction.bs-calltoaction-success .cta-button .btn,
 .bs-calltoaction.bs-calltoaction-warning .cta-button .btn,
 .bs-calltoaction.bs-calltoaction-danger .cta-button .btn{
-    border-color:#fff;
 }
 
-.aaronsbutton {
-    border: none;
-    text-align: center;
-    font-size: inherit;
-    color: inherit;
-    background: none;
-    cursor: pointer;
-    padding: 25px 80px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-weight: 700;
-    outline: none;
+
