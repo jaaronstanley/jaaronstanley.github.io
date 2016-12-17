@@ -2,7 +2,13 @@
 
 
 
-
+#img > img {
+    display: block;
+    margin: auto;
+    width: 650px;
+    height:350px;
+    padding: 10px;
+}
 
 h2  {
   font-size: 18px;
