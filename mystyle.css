@@ -13,7 +13,7 @@
 
 
 h2  {
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Titillium Web", sans-serif;
   text-align: center;
 }
@@ -178,11 +178,9 @@ footer {
     border-color: #d43f3a;
 }
 
-.bs-calltoaction.bs-calltoaction-primary .cta-button .btn,
-.bs-calltoaction.bs-calltoaction-info .cta-button .btn,
-.bs-calltoaction.bs-calltoaction-success .cta-button .btn,
-.bs-calltoaction.bs-calltoaction-warning .cta-button .btn,
-.bs-calltoaction.bs-calltoaction-danger .cta-button .btn{
+.bs-calltoaction.bs-calltoaction-primary .btn btn-1 btn-1a
+{
+    text-align: center;
 }
 
 
